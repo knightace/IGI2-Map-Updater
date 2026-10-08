@@ -30,7 +30,7 @@
     "1600": {"name": "de_aztec", "url": "https://github.com/knightace/IGI2-Map-Updater/releases/download/IGI2_Maps_1.0/de_aztec.zip", "sha256": "32c1187500ca1e14e8e740909cbb3a890604b38b1e9c1f6074981adb51f1251b"},
     "1601": {"name": "de_dust2", "url": "https://github.com/knightace/IGI2-Map-Updater/releases/download/IGI2_Maps_1.0/de_dust2.zip", "sha256": "28cd75706b7c95eddd1f399e20cd8d5b8b11446b47f8477643a45dfd8d1cc55e"},
     "1900": {"name": "Outback", "url": "https://github.com/knightace/IGI2-Map-Updater/releases/download/IGI2_Maps_1.0/outback.zip", "sha256": "cac5022634b778d3470a9c63faaab8402167f8530eb07d80357c8af7d1998df0"},
-    "1966": {"name": "Ghostcity", "url": "https://github.com/knightace/IGI2-Map-Updater/releases/download/IGI2_Maps_1.0/ghostcity.zip", "sha256": "fb619c5b7a03d96b039b651e5205863c85908a2aadba952f5b39ad8f52284339"},
+    "1966": {"name": "Ghostcity", "url": "https://github.com/knightace/IGI2-Map-Updater/releases/download/IGI2_Maps_1.0/ghostcity.zip", "sha256": "e298ba38786883ce7ef9482704759fbf3dac081014c92ab0604de9ec8e19d2bd"},
     "1969": {"name": "Knotvillage", "url": "https://github.com/knightace/IGI2-Map-Updater/releases/download/IGI2_Maps_1.0/knotvillage.zip", "sha256": "7e80a030404a8043603f42f4e0472859abf68c69204d49d921d7a9c9a2cf4287"},
     "1974": {"name": "mars", "url": "https://github.com/knightace/IGI2-Map-Updater/releases/download/IGI2_Maps_1.0/mars.zip", "sha256": "ebe0b715a26d6406624441797eed1faea828190860644f3bed5e13ed756470fa"},
     "1975": {"name": "The Prison", "url": "https://github.com/knightace/IGI2-Map-Updater/releases/download/IGI2_Maps_1.0/ThePrison.zip", "sha256": "f55d793bdbf209bfdcd1b27dcf853d57713e21c8ae601c68f3862b690d183e5d"},
